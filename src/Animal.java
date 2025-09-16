@@ -3,7 +3,7 @@
 public abstract class Animal {
 
     public void makeSound() {
-        System.out.println("animal makes sound!");
+        System.out.println("Animal makes sound!");
     }
 
     //abstract method
